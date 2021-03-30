@@ -1,0 +1,24 @@
+{
+  "name": "Desafio2_babel",
+  "version": "1.0.0",
+  "description": "Proyecto que ocupa Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Iván Carmona",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.13",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.13.12",
+    "i": "^0.3.6",
+    "nodemon": "^2.0.7",
+    "npm": "^7.7.5"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1"
+  }
+}
